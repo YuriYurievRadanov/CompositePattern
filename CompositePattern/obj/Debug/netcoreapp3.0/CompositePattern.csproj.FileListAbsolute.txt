@@ -1,0 +1,11 @@
+D:\InterviewS\PREPARING\DESIGNPATTERN\CompositePattern\CompositePattern\CompositePattern\obj\Debug\netcoreapp3.0\CompositePattern.csprojAssemblyReference.cache
+D:\InterviewS\PREPARING\DESIGNPATTERN\CompositePattern\CompositePattern\CompositePattern\obj\Debug\netcoreapp3.0\CompositePattern.AssemblyInfoInputs.cache
+D:\InterviewS\PREPARING\DESIGNPATTERN\CompositePattern\CompositePattern\CompositePattern\obj\Debug\netcoreapp3.0\CompositePattern.AssemblyInfo.cs
+D:\InterviewS\PREPARING\DESIGNPATTERN\CompositePattern\CompositePattern\CompositePattern\bin\Debug\netcoreapp3.0\CompositePattern.exe
+D:\InterviewS\PREPARING\DESIGNPATTERN\CompositePattern\CompositePattern\CompositePattern\bin\Debug\netcoreapp3.0\CompositePattern.deps.json
+D:\InterviewS\PREPARING\DESIGNPATTERN\CompositePattern\CompositePattern\CompositePattern\bin\Debug\netcoreapp3.0\CompositePattern.runtimeconfig.json
+D:\InterviewS\PREPARING\DESIGNPATTERN\CompositePattern\CompositePattern\CompositePattern\bin\Debug\netcoreapp3.0\CompositePattern.runtimeconfig.dev.json
+D:\InterviewS\PREPARING\DESIGNPATTERN\CompositePattern\CompositePattern\CompositePattern\bin\Debug\netcoreapp3.0\CompositePattern.dll
+D:\InterviewS\PREPARING\DESIGNPATTERN\CompositePattern\CompositePattern\CompositePattern\bin\Debug\netcoreapp3.0\CompositePattern.pdb
+D:\InterviewS\PREPARING\DESIGNPATTERN\CompositePattern\CompositePattern\CompositePattern\obj\Debug\netcoreapp3.0\CompositePattern.dll
+D:\InterviewS\PREPARING\DESIGNPATTERN\CompositePattern\CompositePattern\CompositePattern\obj\Debug\netcoreapp3.0\CompositePattern.pdb
